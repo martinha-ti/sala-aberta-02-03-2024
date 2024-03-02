@@ -1,0 +1,36 @@
+ body {
+     background-color: #292929;
+ }
+
+ h3 {
+     color: aqua;
+ }
+
+ a {
+     color: azure;
+     text-decoration: none;
+ }
+
+ .amarelo {
+     color: rgb(251, 255, 0);
+     text-decoration: none;
+ }
+
+ a:hover {
+     color: rgb(36, 147, 147);
+ }
+
+ /* comentário id e class 
+            usar o #id para  se referir a um elemento único no HTML
+            usar .class  para  definir múltiplos elementos que possuem a mesma propriedade */
+ p {
+     color: #9a44eb !important;
+ }
+
+ .vermelho {
+     color: #ff0015;
+ }
+
+ .verde {
+     color: #00ff40;
+ }
